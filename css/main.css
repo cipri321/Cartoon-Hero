@@ -1,0 +1,36 @@
+body
+{
+	background-color: lightgrey;
+}
+header
+{
+	background-color: #42aaf4;
+	padding: 10px;
+}
+header h1
+{
+	font-size: 80px;
+	font-family: "Monospace", "Courier New", "Lucida Console";
+	font-weight: bold;
+}
+img
+{
+	border-radius: 10px;
+	border: 40px solid #f4b942;
+}
+h2
+{
+	font-size: 60px;
+	color: orange;
+}
+.content
+{
+	background-color:#4441f4;
+	font-family: "Gill Sans", sans-serif;
+	text-align: center;
+	color:orange;
+}
+ul
+{
+	list-style-type: none;
+}
